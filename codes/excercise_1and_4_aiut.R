@@ -197,3 +197,6 @@ legend("topleft", legend = unique(iris_clusters),
 legend("bottomright", legend = names(species_shapes), 
        col = "black", 
        pch = species_shapes, cex = 1, title = "Species")
+
+
+L
